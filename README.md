@@ -57,7 +57,7 @@ python bert_lora.py
 python bert_large.py
 ```
 
-**Note:** The BERT models require a CUDA-capable GPU for reasonable training times. They were developed and tested on Google Colab and the Purdue RCAC Scholar cluster.
+**Note:** The BERT models require a CUDA-capable GPU for reasonable training times. They were developed and tested on Google Colab T4 GPU with converging times aroudn 8 minutes for each model.
 
 ## Dataset
 
